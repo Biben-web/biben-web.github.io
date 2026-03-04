@@ -15,4 +15,38 @@
 .card:hover {
   transform: scale(1.05);
   background: #e0f7ff;
+}.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 30px;
+  background: #111;
+  color: white;
+}
+
+.navbar ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+
+.portfolio {
+  padding: 50px 20px;
+}
+
+.portfolio-box {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.project {
+  background: #f4f4f4;
+  padding: 40px;
+  border-radius: 10px;
 }
