@@ -1,0 +1,9 @@
+<nav class="navbar">
+  <h2>Biben</h2>
+  <ul>
+    <li><a href="#">Akèy</a></li>
+    <li><a href="#about">Sou mwen</a></li>
+    <li><a href="#services">Sèvis</a></li>
+    <li><a href="#portfolio">Portfolio</a></li>
+  </ul>
+</nav>
